@@ -25,7 +25,7 @@ Hard-Voting-Classifier(Accuracy-99% and Recall-84%)
 Soft-Voting-Classiffier(Accuracy- 100%)
     
  # Run Locally
-  Run this commandon ur command line:https://github.com/Raph-09/CREDIT-CARD-FRAUD-DETECTION.git
+  Run this command on ur command line:https://github.com/Raph-09/CREDIT-CARD-FRAUD-DETECTION.git
   Install the packages that are found # Tech stack
 
   
