@@ -24,11 +24,11 @@ Hard-Voting-Classifier(Accuracy-99% and Recall-84%)
 
 Soft-Voting-Classiffier(Accuracy- 100%)
     
-Click this link to see the noteboo:https://github.com/Raph-09/CREDIT-CARD-FRAUD-DETECTION/blob/main/credit-card-fraud-detection-solution%20(1).ipynb
-
  # Run Locally
   Run this commandon ur command line:https://github.com/Raph-09/CREDIT-CARD-FRAUD-DETECTION.git
   Install the packages that are found # Tech stack
+  
+# Click this link to see the notebook:https://github.com/Raph-09/CREDIT-CARD-FRAUD-DETECTION/blob/main/credit-card-fraud-detection-solution%20(1).ipynb
   
  # Tech Stack
  sklearn
