@@ -26,7 +26,7 @@ Soft-Voting-Classiffier(Accuracy- 100%)
     
  # Run Locally
   Run this command on ur command line:https://github.com/Raph-09/CREDIT-CARD-FRAUD-DETECTION.git
-  Install the packages that are found # Tech stack
+  Install the packages that are found # Tech stack..
 
   
  # Tech Stack
